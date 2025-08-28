@@ -1,0 +1,6 @@
+[package]
+name = "acmicpc_net_problem_9550"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
